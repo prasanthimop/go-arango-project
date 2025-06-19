@@ -1,0 +1,7 @@
+env: "Dev"
+http_server:
+  address: "http://localhost:8082"
+arangodb_credentials:
+  username: "root"
+  password: "root"
+  dbName: "my_go_practice"
